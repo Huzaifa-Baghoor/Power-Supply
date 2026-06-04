@@ -1,5 +1,6 @@
 # Discreete Dual Output DC Power Supply
 This is a Custom Designed dual output DC power supply that provides 12V and 5V outputs.
+![3D](Images/3D.JPG)
 
 ## Working
 The circuit takes AC input from Wall Socket and steps it down to 12V then this AC voltage is rectified be 1N4007 Diodes. This 12V DC voltage then goes to a capacitor which decreases the noise and the voltage goes to about 17V. then this voltage is passed through capacitors and zener diodes to provide the 12V and 5V outputs.
@@ -7,7 +8,7 @@ The circuit takes AC input from Wall Socket and steps it down to 12V then this A
 ## Simulation
 This Project is Simulated and Tested in Multisim. It worked fine there and supplied constant voltage under Load.
 
-![schemetics](Images/Simulation.JPG)
+![Simulation](Images/Simulation.JPG)
 
 ## PCB and Connections
 I designed a Custom PCB for this project.
