@@ -7,14 +7,14 @@ The circuit takes AC input from Wall Socket and steps it down to 12V then this A
 ## Simulation
 This Project is Simulated and Tested in Multisim. It worked fine there and supplied constant voltage under Load.
 
-
+![schemetics](Images/Simulation.JPG)
 
 ## PCB and Connections
 I designed a Custom PCB for this project.
 
 |Schematics|Tracks|
 | :---: | :---: |
-| ![schemetics](/Images/Schematics.JPG) | ![Tracks](/Images/pcb.JPG) |
+| ![schemetics](Images/Schematics.JPG) | ![Tracks](Images/pcb.JPG) |
 
 ## BOM
 
