@@ -14,7 +14,7 @@ I designed a Custom PCB for this project.
 
 |Schematics|Tracks|
 | :---: | :---: |
-| ![schemetics]() | ![Tracks]() |
+| ![schemetics](/Images/Schematics.JPG) | ![Tracks](/Images/pcb.JPG) |
 
 ## BOM
 
