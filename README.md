@@ -17,6 +17,15 @@ I designed a Custom PCB for this project.
 | :---: | :---: |
 | ![schemetics](Images/Schematics.JPG) | ![Tracks](Images/pcb.JPG) |
 
+## 3D Case
+
+I also designed a 3D enclosure box for the project that would have 3 holes, 1 for input and 2 for the outputs.
+|Schematics|Tracks|
+| :---: | :---: |
+| ![schemetics](Images/Assembly%201.JPG) | ![Tracks](Images/Assembly%202.JPG) |
+
+![Tracks](Images/Assembly%203.JPG)
+
 ## BOM
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
